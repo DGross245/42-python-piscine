@@ -1,0 +1,14 @@
+# Compiled Python files
+*.pyc
+
+# Byte-compiled / optimized Python directories
+__pycache__/
+
+# Virtual environment
+venv/
+
+# VSCode specific files
+.vscode/
+
+# macOS system files
+.DS_Store
